@@ -42,3 +42,9 @@ int main() {
 		std::cout << std::endl;
 	}
 }
+
+
+
+
+//Bu kısım ödevden bağımsız sunumun drive bağlantısı
+//https://docs.google.com/presentation/d/1-tTr18YeQFKBslNelNJ1x8DOeQTmZbW0/edit?usp=sharing&ouid=102996603204994261881&rtpof=true&sd=true
